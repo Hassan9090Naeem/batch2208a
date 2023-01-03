@@ -1,0 +1,4 @@
+ul li:hover
+{
+    background-color: #393f81; border-radius: 10px; transition: 1s; color: white; text-decoration: none;
+}
